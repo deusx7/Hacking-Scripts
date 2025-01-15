@@ -1,0 +1,5 @@
+[15/01, 16:24] Ibrahim: git clone https://github.com/mttaggart/pwst-resources
+[15/01, 16:38] Ibrahim: https://cdn.fs.teachablecdn.com/CbIyLkOuS4GUH7TNFTFg
+[15/01, 16:55] Ibrahim: sudo curl -L "https://github.com/docker/compose/releases/latest/download/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+[15/01, 16:55] Ibrahim: sudo chmod +x /usr/local/bin/docker-compose
+[15/01, 16:55] Ibrahim: docker-compose --version
